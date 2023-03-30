@@ -23,7 +23,7 @@ pyinstaller -F -w -i 98B8596E39.ico Python_BypassAV_demo.py
 
 
 
-![image-20230327171424455](C:\Users\Administrator\Desktop\Images\README\image-20230327171424455.png)
+![image-20230327171424455](https://raw.githubusercontent.com/beytagh001/blog-img/main/image-20230327171424455.png)
 
 ```
 注意cobaltstrike生成的shellcode和脚本中shellcode的差异
